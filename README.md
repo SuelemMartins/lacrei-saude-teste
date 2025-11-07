@@ -10,7 +10,7 @@ O fluxo de teste principal está **BLOQUEADO** devido a uma falha de alta severi
 
 * **Problema:** Falha 403 Forbidden ao tentar realizar o Login.
 * **Referência:** [Registro de Bug - 001](https://www.notion.so/Registro-de-Bug-001-2a390b9e5c4d80e38c0ac943c34c2554?source=copy_link)
-
+https://www.notion.so/Readme-e-Links-Github-relatorios-prints-1-2a390b9e5c4d807f9974dc2ec30590df?source=copy_link
 ---
 
 ## 🔗 DOCUMENTAÇÃO COMPLETA (Notion)
