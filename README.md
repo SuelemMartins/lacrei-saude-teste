@@ -47,5 +47,7 @@ Embora bloqueados, os casos de teste funcionais para a aplicação foram planeja
 * **Documentação:** [Casos de teste (Gherkin)](https://www.notion.so/Casos-de-teste-1-Gherkin-2a390b9e5c4d801c8fdccf2a79b86df9?source=copy_link)
 <img width="993" height="747" alt="image" src="https://github.com/user-attachments/assets/39c5eb56-2695-4f6e-a764-8f5c66d0b5cf" />
 
+<img width="1360" height="783" alt="image" src="https://github.com/user-attachments/assets/35ca82d8-1087-4602-85e5-0543ac7623d7" />
+
 
 Conclusão e documentação do Desafio Técnico QA Lacrei Saúde, incluindo o planejamento de automação (Cypress/Node), relatórios de Acessibilidade (Score 96) e Performance (LCP crítico), e o registro de três bugs de alta severidade (como o 403 Forbidden no Login). [[Link para o meu Notion completo](https://www.notion.so/2a390b9e5c4d80ffbab8c43cc08641b7?v=2a390b9e5c4d80f8b09a000cd484059c&source=copy_link)]
